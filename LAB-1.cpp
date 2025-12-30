@@ -22,8 +22,8 @@ circle(250,250,170);
 
 setcolor(12);
 rectangle(110,20,10,170);
-outtextxy(119,400,"Rohita");
-outtextxy(121,420,"240363");
+outtextxy(119,400,"shahil");
+outtextxy(121,420,"240369");
 
 
 setbkcolor(03);
@@ -34,3 +34,4 @@ return 0;
 
 
 }
+
